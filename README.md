@@ -1,7 +1,8 @@
 ## ⌨ Descrição
 
 This application randomize 6 users with their own informations.
-Deploy: <a href="https://esthervianna.github.io/randomUser>Live demo</a>
+
+##Deploy: <a href="https://esthervianna.github.io/randomUser/">Live demo</a>
 
 ## Process
 
